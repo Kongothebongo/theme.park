@@ -7,10 +7,10 @@
 @import url(/css/addons/unraid/login-page/retro-terminal/retro-terminal-base.css);
 :root {
 --main-bg-color:MediumSlateBlue;
---body-before:#70d7f61a;
+--body-before:#none;
 --body-after: #none;
---body-animation: none;
---logo: url(https://imgur.com/Py4LzKs) center no-repeat;
+--body-animation: flicker;
+--logo: url(/css/addons/unraid/login-page/alien/logo/wings_shadow.png) center no-repeat;
 --text-color: #663399;
 --input-color: #663399;
 --link-color: #663399;
