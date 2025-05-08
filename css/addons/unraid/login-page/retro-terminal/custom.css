@@ -8,9 +8,9 @@
 :root {
 --main-bg-color:MediumSlateBlue;
 --body-before:#70d7f61a;
---body-after: #70d7f633;
---body-animation: flicker;
---logo: url(https://imgur.com/zmlhDSV) center no-repeat;
+--body-after: #none;
+--body-animation: none;
+--logo: url(https://imgur.com/Py4LzKs) center no-repeat;
 --text-color: #663399;
 --input-color: #663399;
 --link-color: #663399;
@@ -28,6 +28,6 @@
 --text-font: 'Share Tech Mono', monospace;
 --loginbox-background-color: transparent;
 --text-shadow: 0 0 8px;
---text-shadow-color: #ffffff;
+--text-shadow-color: #663399;
 --box-shadow: 0 0 15px;
 }
