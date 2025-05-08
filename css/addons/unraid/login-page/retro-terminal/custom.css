@@ -10,7 +10,7 @@
 --body-before:#none;
 --body-after: #none;
 --body-animation: flicker;
---logo: url(https://Kongothebongo.github.io/theme.park/css/addons/unraid/login-page/alien/logo/wings_shadow.png) center no-repeat;
+--logo: url(/theme.park/css/addons/unraid/login-page/alien/logo/wings_shadow.png) center no-repeat;
 --text-color: #663399;
 --input-color: #663399;
 --link-color: #663399;
